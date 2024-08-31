@@ -1,0 +1,11 @@
+{
+  "codeowners": ["@luclu"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/user/my_component/",
+  "domain": "sony_gtz380",
+  "iot_class": "local_polling",
+  "name": "Sony GTZ380",
+  "requirements": [],
+  "version": "1.0.0"
+}
